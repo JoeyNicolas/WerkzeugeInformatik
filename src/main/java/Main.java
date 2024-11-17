@@ -19,4 +19,8 @@ public class Main {
     }
 }
 
+
 // main-Branch Kommentar
+// VOILA, keine Konfliktmarkierungen = kein Konflikt :)
+// merge-conflict-Branch Kommentar
+
